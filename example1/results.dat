@@ -1,0 +1,19 @@
+Initial:    position[km](0.000000,0.000000) velocity[km/yr](0.000000,0.050000) 
+End of Jan: position[km](0.000017,0.004167) velocity[km/yr](0.000417,0.050002) 
+End of Feb: position[km](0.000069,0.008334) velocity[km/yr](0.000833,0.050008) 
+End of Mar: position[km](0.000156,0.012501) velocity[km/yr](0.001250,0.050017) 
+End of Apr: position[km](0.000278,0.016670) velocity[km/yr](0.001667,0.050029) 
+End of May: position[km](0.000434,0.020840) velocity[km/yr](0.002084,0.050045) 
+End of Jun: position[km](0.000625,0.025011) velocity[km/yr](0.002501,0.050065) 
+End of Jul: position[km](0.000851,0.029184) velocity[km/yr](0.002918,0.050088) 
+End of Aug: position[km](0.001112,0.033359) velocity[km/yr](0.003336,0.050114) 
+End of Sep: position[km](0.001407,0.037537) velocity[km/yr](0.003754,0.050144) 
+End of Oct: position[km](0.001737,0.041717) velocity[km/yr](0.004172,0.050178) 
+End of Nov: position[km](0.002102,0.045900) velocity[km/yr](0.004590,0.050215) 
+End of Dec: position[km](0.002502,0.050086) velocity[km/yr](0.005009,0.050255) 
+
+                    longitudinal_stretching = 0.0001,
+                    side_shearing = 0.1,
+                    lateral_extension = 0.0001,
+	            flowline_turning = 0.1;
+
